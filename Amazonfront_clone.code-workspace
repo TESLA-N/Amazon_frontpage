@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Amazonfront_clone",
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/Amazon Clone (Resources)-20240913T113127Z-001/Amazon Clone (Resources)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Amazonfront_clone"
+	}
+}
